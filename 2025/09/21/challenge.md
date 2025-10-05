@@ -1,5 +1,5 @@
 # Video Storage
-## Summart
+## Summary
 Given a video size, a unit for the video size, a hard drive capacity, and a unit for the hard drive, return the number of videos the hard drive can store using the following constraints:
 - The unit for the video size can be bytes ("B"), kilobytes ("KB"), megabytes ("MB"), or gigabytes ("GB").
 - If not given one of the video units above, return "Invalid video unit".
